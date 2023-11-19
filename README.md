@@ -6,9 +6,6 @@
 </p>
 <h1 align="center" >ResqAI: An AI-Powered Call Management System for Emergency Services</h1>
 <p align="center">
- 
-  <img src="https://img.shields.io/badge/license-MPL 2.0-blue.svg">
-  </a>
   <a href="https://resqai.webxspark.com">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
