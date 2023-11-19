@@ -1,4 +1,4 @@
-# Team-Takshak
+### Team-Takshak ###
 <p align="center">
   <a href="https://resqai.webxspark.com">
     <img alt = "ResqAI Logo" src = "./res/favicon-png.png">
